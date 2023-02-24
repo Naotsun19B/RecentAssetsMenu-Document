@@ -24,6 +24,7 @@ Target platform : Windows, Mac, Linux
 ## Installation
 
 Put the [Plugins/RecentAssetsMenu](https://github.com/Naotsun19B/RecentAssetsMenu) folder in your project's Plugins folder.  
+Or install from the [marketplace](https://www.unrealengine.com/marketplace/en-US/product/recent-assets-menu).  
 If the feature is not available after installing the plugin, it is possible that the plugin has not been enabled, so please check if the plugin is enabled from Edit > Plugins.
 
 ## Usage
