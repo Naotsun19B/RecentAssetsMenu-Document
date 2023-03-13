@@ -31,11 +31,11 @@
 
 ファイルメニューに"Recent Assets"というメニューが追加されているので、そこから開きたいアセットを選択してください。  
 
-![Usage](https://user-images.githubusercontent.com/51815450/220249605-676709eb-06fc-4b4d-ac1a-57ecc8896e3a.PNG)
+![Usage](https://user-images.githubusercontent.com/51815450/224677460-cc01f140-5bd3-49bb-9400-ad9e940dfeb5.PNG)
 
 また、ショートカットキーはエディタの環境設定のキーボードショートカットから変更できます。
 
-![KeyboardShortcuts](https://user-images.githubusercontent.com/51815450/220249646-8bedbe53-4c6c-4ca1-b34c-9d91dd547206.PNG)
+![KeyboardShortcuts](https://user-images.githubusercontent.com/51815450/224676158-39f559ca-495e-4e89-985d-7a21af53ba5f.PNG)
 
 ## ライセンス
 
@@ -46,6 +46,9 @@
 [Naotsun](https://twitter.com/Naotsun_UE)
 
 ## 履歴
+
+- (2023/03/13) v1.1   
+  最近開いたアセットのデータを除去するメニューを追加しました
 
 - (2023/02/15) v1.0   
   プラグインを公開

@@ -31,11 +31,11 @@ If the feature is not available after installing the plugin, it is possible that
 
 A menu called "Recent Assets" has been added to the file menu, so select the asset you want to open from there.  
 
-![Usage](https://user-images.githubusercontent.com/51815450/220249605-676709eb-06fc-4b4d-ac1a-57ecc8896e3a.PNG)
+![Usage](https://user-images.githubusercontent.com/51815450/224677460-cc01f140-5bd3-49bb-9400-ad9e940dfeb5.PNG)
 
 You can also change the shortcut keys from the keyboard shortcuts in the editor preferences.
 
-![KeyboardShortcuts](https://user-images.githubusercontent.com/51815450/220249646-8bedbe53-4c6c-4ca1-b34c-9d91dd547206.PNG)
+![KeyboardShortcuts](https://user-images.githubusercontent.com/51815450/224676158-39f559ca-495e-4e89-985d-7a21af53ba5f.PNG)
 
 ## License
 
@@ -46,6 +46,9 @@ You can also change the shortcut keys from the keyboard shortcuts in the editor 
 [Naotsun](https://twitter.com/Naotsun_UE)
 
 ## History  
+
+- (2023/03/13) v1.1   
+  Added a menu to clear data for recently opened assets
 
 - (2023/02/15) v1.0   
   Publish plugin
