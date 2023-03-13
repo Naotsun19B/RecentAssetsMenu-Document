@@ -31,7 +31,7 @@ If the feature is not available after installing the plugin, it is possible that
 
 A menu called "Recent Assets" has been added to the file menu, so select the asset you want to open from there.  
 
-![Usage](https://user-images.githubusercontent.com/51815450/224677460-cc01f140-5bd3-49bb-9400-ad9e940dfeb5.PNG)
+![Usage](https://user-images.githubusercontent.com/51815450/224694011-d5fe8c8e-9ca2-40eb-a78e-9d318ce1a715.PNG)
 
 You can also change the shortcut keys from the keyboard shortcuts in the editor preferences.
 

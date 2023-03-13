@@ -31,7 +31,7 @@
 
 ファイルメニューに"Recent Assets"というメニューが追加されているので、そこから開きたいアセットを選択してください。  
 
-![Usage](https://user-images.githubusercontent.com/51815450/224677460-cc01f140-5bd3-49bb-9400-ad9e940dfeb5.PNG)
+![Usage](https://user-images.githubusercontent.com/51815450/224694011-d5fe8c8e-9ca2-40eb-a78e-9d318ce1a715.PNG)
 
 また、ショートカットキーはエディタの環境設定のキーボードショートカットから変更できます。
 
