@@ -18,7 +18,7 @@ This plugin adds a menu to the file menu to open recently opened assets as well 
 
 ## Requirement
 
-Target version : UE4.27 ～ 5.1  
+Target version : UE4.27 ～ 5.2  
 Target platform : Windows, Mac, Linux 
 
 ## Installation
@@ -46,6 +46,9 @@ You can also change the shortcut keys from the keyboard shortcuts in the editor 
 [Naotsun](https://twitter.com/Naotsun_UE)
 
 ## History  
+
+- (2023/05/14) v1.2   
+  Added support for UE5.2
 
 - (2023/03/13) v1.1   
   Added a menu to clear data for recently opened assets
