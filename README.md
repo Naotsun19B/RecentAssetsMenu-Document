@@ -14,11 +14,13 @@
 
 ## Description
 
-This plugin adds a menu to the file menu to open recently opened assets as well as level assets.
+This plugin adds a menu to the file menu to open recently opened assets as well as level assets.  
+In UE5.3 and later, the functionality added by this plugin is included in the engine as standard.  
+I plan to make it compatible with the latest version so that similar functions can be used in UE5.2 and earlier versions from the Marketplace, but from UE5.3 onwards, this plugin will essentially be an empty plugin that does nothing.
 
 ## Requirement
 
-Target version : UE4.27 ～ 5.2  
+Target version : UE4.27 ～ 5.3  
 Target platform : Windows, Mac, Linux 
 
 ## Installation
@@ -46,6 +48,9 @@ You can also change the shortcut keys from the keyboard shortcuts in the editor 
 [Naotsun](https://twitter.com/Naotsun_UE)
 
 ## History  
+
+- (2023/09/07) v1.3   
+  Added support for UE5.3  
 
 - (2023/05/14) v1.2   
   Added support for UE5.2
