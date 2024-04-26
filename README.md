@@ -20,7 +20,7 @@ I plan to make it compatible with the latest version so that similar functions c
 
 ## Requirement
 
-Target version : UE4.27 ～ 5.3  
+Target version : UE4.27 ～ 5.4  
 Target platform : Windows, Mac, Linux 
 
 ## Installation
@@ -48,6 +48,9 @@ You can also change the shortcut keys from the keyboard shortcuts in the editor 
 [Naotsun](https://twitter.com/Naotsun_UE)
 
 ## History  
+
+- (2024/04/24) v1.4   
+  Added support for UE5.4
 
 - (2023/09/07) v1.3   
   Added support for UE5.3  
