@@ -16,11 +16,12 @@
 
 This plugin adds a menu to the file menu to open recently opened assets as well as level assets.  
 In UE5.3 and later, the functionality added by this plugin is included in the engine as standard.  
-I plan to make it compatible with the latest version so that similar functions can be used in UE5.2 and earlier versions from the Marketplace, but from UE5.3 onwards, this plugin will essentially be an empty plugin that does nothing.
+~~I plan to make it compatible with the latest version so that similar functions can be used in UE5.2 and earlier versions from the Marketplace, but from UE5.3 onwards, this plugin will essentially be an empty plugin that does nothing.~~  
+Fab now supports any engine version, so I have removed support for UE5.3 and later.
 
 ## Requirement
 
-Target version : UE4.27 ～ 5.4  
+Target version : UE4.27 ～ 5.2  
 Target platform : Windows, Mac, Linux 
 
 ## Installation
@@ -48,6 +49,9 @@ You can also change the shortcut keys from the keyboard shortcuts in the editor 
 [Naotsun](https://twitter.com/Naotsun_UE)
 
 ## History  
+
+- (2025/06/08) Development finished    
+  Support for UE5.3 and later has been discontinued  
 
 - (2024/04/24) v1.4   
   Added support for UE5.4
